@@ -1,4 +1,4 @@
 # collage-demo
 This is my first Git Repository.
 <br>
-Author - Tanvi
+Author - Tanvi tanvi
